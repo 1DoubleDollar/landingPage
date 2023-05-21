@@ -37,12 +37,12 @@ header{
     align-items: center;
 }
 .left{
-    max-width:300px;
+    max-width:500px;
 }
 .big_font
 {
     font-size: 48px;
-    font-weight: extra-bold;
+    font-weight: 600;
     margin-bottom: 10px;
 }
 .small_font{
