@@ -1,5 +1,6 @@
 body{
-    margin:0%
+    margin:0%;
+    font-family:'Roboto';
 }
 ::-webkit-scrollbar {
     width: 5px;
@@ -110,7 +111,7 @@ button{
 }
 .font_small{
     font-style: italic;
-    font-weight: 100;
+    font-weight: lighter;
     font-size: 36px;
     color:#1F2937;
     max-width:800px
